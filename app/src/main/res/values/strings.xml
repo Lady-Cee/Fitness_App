@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fitness_App</string>
+    <string name="placeholder">Search</string>
+    <string name="fit1text">Running</string>
+    <string name="theme1text">Nature Effect</string>
+    <string name="title">Body Alignment Positions</string>
+    <string name="title_fav">Favourite Collections</string>
+    <string name="first_pix">Running</string>
+    <string name="second_pix">Sit Up</string>
+    <string name="third_pix">Body Stretch</string>
+    <string name="fourth_pix">Side Stretch</string>
+    <string name="fifth_pix">Hand Swing</string>
+    <string name="sixth_pix">Body Up</string>
+    <string name="seventh_pix">Waist Stretch</string>
+    <string name="eight_pix">Group Fitness</string>
+    <string name="first_theme">Nature Effect</string>
+    <string name="second_theme">Ocean Effect</string>
+    <string name="third_theme">Relaxation</string>
+    <string name="fourth_theme">Spirals</string>
+    <string name="fifth_theme">Astronomy</string>
+    <string name="sixth_theme">Dark Light</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_profile">Profile</string>
+</resources>
